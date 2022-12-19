@@ -1,31 +1,32 @@
 {
-	"name": "ra-calm",
-	"displayName": "Ra Calm",
-	"description": "Here is the best theme for your eye care!",
+	"name": "ra-calm-edit",
+	"displayName": "Ra Calm Edit",
+	"description": "This is a fork of Ra Calm > https://github.com/rahmanyerli/ra-calm",
 	"version": "1.3.0",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
+	"private": "true",
 	"categories": [
 		"Themes"
 	],
 	"contributes": {
 		"themes": [
 			{
-				"label": "Ra Calm",
+				"label": "Ra Calm Edit",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ra-calm.json"
 			}
 		]
 	},
-	"publisher": "rahmanyerli",
+	"publisher": "scottricity",
 	"author": {
-		"name": "Rahman Yerli"
+		"name": "Jonathan Scott"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "GitHub",
-		"url": "https://github.com/rahmanyerli/ra-calm"
+		"url": "https://github.com/scottricity/ra-calm-edit"
 	},
 	"icon": "images/ra.png",
 	"galleryBanner": {
@@ -44,6 +45,9 @@
 		"ra calm",
 		"racalm",
 		"ra-calm",
-		"ra calm theme"
+		"ra calm theme",
+		"edit",
+		"italic",
+		"fork"
 	]
 }

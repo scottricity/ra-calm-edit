@@ -464,19 +464,22 @@
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#FF7799"
+				"foreground": "#FF7799",
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#FF7799"
+				"foreground": "#FF7799",
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#FF7799"
+				"foreground": "#FF7799",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -500,7 +503,8 @@
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#66CCFF"
+				"foreground": "#66CCFF",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -511,7 +515,8 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#FF7799"
+				"foreground": "#FF7799",
+				"fontStyle": "italic"
 			}
 		},
 		{
